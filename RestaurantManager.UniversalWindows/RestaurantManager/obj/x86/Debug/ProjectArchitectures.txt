@@ -1,1 +1,1 @@
-C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\HomeworkW2V2\RestaurantManager.UniversalWindows\RestaurantManager\RestaurantManager.csproj;x86
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\RestaurantManager.csproj;x86
