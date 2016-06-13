@@ -1,0 +1,17 @@
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pdb
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pri
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.dll
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.pdb
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\priconfig.xml
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\priconfig.xml.intermediate
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\layout.resfiles
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\layout.resfiles.intermediate
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\resources.resfiles
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\resources.resfiles.intermediate
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\pri.resfiles
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\pri.resfiles.intermediate
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\qualifiers.txt
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt

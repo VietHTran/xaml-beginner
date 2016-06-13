@@ -402,3 +402,7 @@ C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.Un
 C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\obj\x86\Debug\RestaurantManager.csproj.GenerateResource.Cache

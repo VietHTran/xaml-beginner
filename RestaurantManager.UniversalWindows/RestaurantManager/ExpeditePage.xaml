@@ -24,10 +24,10 @@
         <TextBlock FontSize="25" Text="Order items:"  Grid.Column="2" Grid.Row="1"/>
         <Button Content="Add to Order" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="4" Grid.Column="0"/>
         <Button Content="Submit Order" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2"/>
-        <ListView Grid.Row="1" Grid.RowSpan="2" Grid.Column="0" Background="Green">
+        <ListView ItemsSource="{Binding MenuItems,Source={StaticResource DataManager}}"  Grid.Row="1" Grid.RowSpan="2" Grid.Column="0">
             
         </ListView>
-        <ListView Grid.Row="2" Grid.Column="2" Background="Blue">
+        <ListView ItemsSource="{Binding CurrentlySelectedMenuItems,Source={StaticResource DataManager}}" Grid.Row="2" Grid.Column="2">
             
         </ListView>
         <AppBar Grid.ColumnSpan="3">

@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-12T05:43:10.315</Modified>
+      <Modified>2016-06-13T11:13:23.144</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\RestaurantManager.exe">
       <PackagePath>entrypoint\RestaurantManager.exe</PackagePath>
-      <Modified>2016-06-12T05:43:09.433</Modified>
+      <Modified>2016-06-13T11:13:21.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Viet\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -442,6 +442,10 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T04:11:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll">
+      <PackagePath>RestaurantManager.Models.dll</PackagePath>
+      <Modified>2016-06-13T10:12:17.589</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\Assets\SplashScreen2.scale-200.png">
       <PackagePath>Assets\SplashScreen2.scale-200.png</PackagePath>
       <Modified>2016-06-11T05:08:52.606</Modified>
@@ -486,7 +490,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\RestaurantManager.xr.xml">
       <PackagePath>RestaurantManager.xr.xml</PackagePath>
-      <Modified>2016-06-12T05:43:09.181</Modified>
+      <Modified>2016-06-13T11:13:21.361</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -494,11 +498,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-06-12T05:43:09.924</Modified>
+      <Modified>2016-06-13T11:13:22.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Viet\Desktop\VietOnly\Anonymous\XAML\xaml-beginner\RestaurantManager.UniversalWindows\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.exe">
       <PackagePath>RestaurantManager.exe</PackagePath>
-      <Modified>2016-06-12T05:43:10.310</Modified>
+      <Modified>2016-06-13T11:13:23.140</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
